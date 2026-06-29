@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I'm Maliketh 👋
 
-<!--
-**nick273237/nick273237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Learning cybersecurity from the ground up — Linux, networking, , and beyond
+🐍 Also into Python and low-level computer architecture
+📝 I additionally write about what I'm learning at [Medium](https://medium.com/@maliketh27)
 
-Here are some ideas to get you started:
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Currently Learning
+- Linux fundamentals
+
